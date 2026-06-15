@@ -22,3 +22,9 @@ env/
 Thumbs.db
 .DS_Store
 
+# Ignore paper documents
+paper_content.md
+Final_Paper.html
+
+*.msi
+*.tmp
